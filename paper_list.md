@@ -1,11 +1,23 @@
 
 
+## Survey 
+* 
+
+
+## Papers 
 * **StepNet: Spatial-temporal Part-aware Network for Sign Language Recognition**, Xiaolong Shen, Zhedong Zheng and Yi Yang, 
 [[Paper](https://arxiv.org/pdf/2212.12857.pdf)] 
 
 * **"Transferring cross-domain knowledge for video sign language recognition."** Li, Dongxu, et al.  Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Transferring_Cross-Domain_Knowledge_for_Video_Sign_Language_Recognition_CVPR_2020_paper.pdf)] 
 
-* **"Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal."** Zuo, Ronglai, and Brian Mak.  arXiv preprint arXiv:2212.13023 (2022). [[Paper](https://arxiv.org/pdf/2212.13023)]
+* **"Improving Continuous Sign Language Recognition with Consistency Constraints and Signer Removal."** Zuo, Ronglai, and Brian Mak.  arXiv preprint arXiv:2212.13023 (2022). [[Paper](https://arxiv.org/pdf/2212.13023)] 
+
+* **Read and Attend: Temporal Localisation in Sign Language Videos** Gul Varol Liliane Momeni Samuel Albanie Triantafyllos Afouras Andrew Zisserman, CVPR_2021 
+[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Varol_Read_and_Attend_Temporal_Localisation_in_Sign_Language_Videos_CVPR_2021_paper.pdf)] 
+
+* **"Fully convolutional networks for continuous sign language recognition."** Cheng, Ka Leong, et al.  European Conference on Computer Vision. Springer, Cham, 2020. 
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123690681.pdf)]
+
 
 
 
