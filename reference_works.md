@@ -9,4 +9,6 @@
 
 * **DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/747d3443e319a22747fbb873e8b2f9f2-Paper.pdf)]
 
-* 
+* **A Survey on In-context Learning** [[Paper](https://arxiv.org/pdf/2301.00234.pdf)]
+
+* **Learning To Retrieve Prompts for In-Context Learning** [[Paper](https://arxiv.org/pdf/2112.08633.pdf)]
