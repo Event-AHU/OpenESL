@@ -14,6 +14,8 @@ Paper List for Sign-Language-Recognition
 
 * **BOBSL** https://www.robots.ox.ac.uk/~vgg/data/bobsl/, British English, 2281 Sign Classes by 39 Signers. 452K Samples 
 
+* **EventAHU_DVS346_CSL**: https://wpan.ahu.edu.cn/l/GFODFg
+
 
 ### Year 2023 
 
