@@ -5,6 +5,10 @@
 
 
 ## Papers 
+
+* **Sign Language Production with Latent Motion Transformer**, Pan Xie Taiying Peng* Yao Du Qipeng Zhang, 
+[[Paper](https://arxiv.org/pdf/2312.12917.pdf)] 
+
 * **StepNet: Spatial-temporal Part-aware Network for Sign Language Recognition**, Xiaolong Shen, Zhedong Zheng and Yi Yang, 
 [[Paper](https://arxiv.org/pdf/2212.12857.pdf)] 
 
