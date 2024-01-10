@@ -6,6 +6,14 @@
 
 ## Papers 
 
+
+### Year 2024 
+
+### Year 2023 
+
+* Moryossef, A., Jiang, Z., Müller, M., Ebling, S., & Goldberg, Y. (2023). **Linguistically Motivated Sign Language Segmentation.** arXiv preprint arXiv:2310.13960.
+  [[Paper](https://arxiv.org/pdf/2310.13960.pdf)] 
+
 * **Sign Language Production with Latent Motion Transformer**, Pan Xie Taiying Peng* Yao Du Qipeng Zhang, 
 [[Paper](https://arxiv.org/pdf/2312.12917.pdf)] 
 
