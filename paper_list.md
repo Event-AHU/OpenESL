@@ -9,6 +9,20 @@
 
 ### Year 2024 
 
+* **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**, Ronglai Zuo1* Fangyun Wei2* † Zenggui Chen2 Brian Mak1
+Jiaolong Yang2 Xin Tong2
+  [[Paper](https://arxiv.org/pdf/2401.04730.pdf)]
+  [[Code](https://github.com/FangyunWei/SLRT)]
+
+* **Towards Online Sign Language Recognition and Translation**, Ronglai Zuo1 Fangyun Wei2† Brian Mak1
+  [[Paper](https://arxiv.org/pdf/2401.05336.pdf)]
+  [[Code](https://github.com/FangyunWei/SLRT)]
+
+* 
+
+
+
+
 ### Year 2023 
 
 * Moryossef, A., Jiang, Z., Müller, M., Ebling, S., & Goldberg, Y. (2023). **Linguistically Motivated Sign Language Segmentation.** arXiv preprint arXiv:2310.13960.
