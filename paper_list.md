@@ -4,7 +4,32 @@
 * 
 
 
-## Papers 
+## Dataset 
+
+* **A New Dataset for End-to-End Sign Language Translation: The Greek Elementary School Dataset**, [[Paper](https://arxiv.org/pdf/2310.04753.pdf)] [[Dataset](https://zenodo.org/record/7847052)]
+
+* **"Word-level deep sign language recognition from video: A new large-scale dataset and methods comparison."**, Li, Dongxu, et al., Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2020. 
+[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_Word-level_Deep_Sign_Language_Recognition_from_Video_A_New_Large-scale_WACV_2020_paper.pdf)]
+[[Project Page](https://dxli94.github.io/WLASL/)]
+[[Code](https://github.com/dxli94/WLASL)] 
+
+* PHOENIX-2014, 
+
+* PHOENIX-2014-T, 
+
+* PHOENIX-2014-SI, 
+
+* CSL, 
+
+* CSL-Daily
+
+* **WLASL**  https://dxli94.github.io/WLASL/, American English, 2000 Sign Classes by 119 Signers. 21K Samples
+
+* **NMFs-CSL** http://home.ustc.edu.cn/~alexhu/Sources/index.html, Chinese, 1067 Sign Classes by 10 Signers. 32K Samples
+
+* **BOBSL** https://www.robots.ox.ac.uk/~vgg/data/bobsl/, British English, 2281 Sign Classes by 39 Signers. 452K Samples 
+
+* **EventAHU_DVS346_CSL**: https://wpan.ahu.edu.cn/l/GFODFg
 
 
 ### Year 2024 
@@ -22,8 +47,6 @@ Jiaolong Yang2 Xin Tong2
 * **Towards Online Sign Language Recognition and Translation**, Ronglai Zuo1 Fangyun Wei2† Brian Mak1
   [[Paper](https://arxiv.org/pdf/2401.05336.pdf)]
   [[Code](https://github.com/FangyunWei/SLRT)]
-
-* 
 
 
 
@@ -53,23 +76,32 @@ Jiaolong Yang2 Xin Tong2
 
 
 
+### Year 2022 
+* **Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation.** Yucheng Suo, Zhedong Zheng, Xiaohan Wang, Bang Zhang and Yi Yang,  arXiv 2022 
+[[Paper](https://arxiv.org/pdf/2207.03714.pdf)]
+
+* **StepNet: Spatial-temporal Part-aware Network for Sign Language Recognition**. arXiv 2022 
 
 
-## Dataset 
 
-* **A New Dataset for End-to-End Sign Language Translation: The Greek Elementary School Dataset**, [[Paper](https://arxiv.org/pdf/2310.04753.pdf)] [[Dataset](https://zenodo.org/record/7847052)]
 
-* **"Word-level deep sign language recognition from video: A new large-scale dataset and methods comparison."**, Li, Dongxu, et al., Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2020. 
-[[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Li_Word-level_Deep_Sign_Language_Recognition_from_Video_A_New_Large-scale_WACV_2020_paper.pdf)]
-[[Project Page](https://dxli94.github.io/WLASL/)]
-[[Code](https://github.com/dxli94/WLASL)] 
+### Year 2021 
 
-PHOENIX-2014, 
+* **Signbert: Pre-training of hand-model-aware representation for sign language recognition**. ICCV 2021
 
-PHOENIX-2014-T, 
+* **Global-local enhancement network for nmf-aware sign language recognition.** ACM TOMM 2021 
 
-PHOENIX-2014-SI, 
 
-CSL, 
 
-CSL-Daily
+
+### Year 2020 and Before 
+
+* **A deep neural framework for continuous sign language recognition by iterative training.** TMM 2019
+
+* **Spatial temporal graph convolutional networks for skeleton-based action recognition.** AAAI 2018
+
+
+
+
+
+
