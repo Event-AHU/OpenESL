@@ -9,6 +9,11 @@
 
 ### Year 2024 
 
+* **SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning**,
+  Hao Chen, Jiaze Wang, Ziyu Guo, Jinpeng Li, Donghao Zhou, Bian Wu, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng 
+  [[Paper](https://arxiv.org/pdf/2401.11847.pdf)]
+  [[Paper](https://socialgoodai.github.io/)]
+
 * **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**, Ronglai Zuo1* Fangyun Wei2* † Zenggui Chen2 Brian Mak1
 Jiaolong Yang2 Xin Tong2
   [[Paper](https://arxiv.org/pdf/2401.04730.pdf)]
