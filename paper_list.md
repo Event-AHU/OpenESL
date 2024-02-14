@@ -6,6 +6,9 @@
 
 ## Dataset 
 
+* **BdSLW60: A Word-Level Bangla Sign Language Dataset**, Husne Ara Rubaiyeat, Hasan Mahmud, Ahsan Habib, Md. Kamrul Hasan
+  [[Paper](https://arxiv.org/abs/2402.08635)] 
+
 * **A New Dataset for End-to-End Sign Language Translation: The Greek Elementary School Dataset**, [[Paper](https://arxiv.org/pdf/2310.04753.pdf)] [[Dataset](https://zenodo.org/record/7847052)]
 
 * **"Word-level deep sign language recognition from video: A new large-scale dataset and methods comparison."**, Li, Dongxu, et al., Proceedings of the IEEE/CVF winter conference on applications of computer vision. 2020. 
@@ -29,7 +32,7 @@
 
 * **BOBSL** https://www.robots.ox.ac.uk/~vgg/data/bobsl/, British English, 2281 Sign Classes by 39 Signers. 452K Samples 
 
-* **EventAHU_DVS346_CSL**: https://wpan.ahu.edu.cn/l/GFODFg
+* **EventAHU_DVS346_CSL**: https://wpan.ahu.edu.cn/l/GFODFg 
 
 
 ### Year 2024 
