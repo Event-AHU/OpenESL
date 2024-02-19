@@ -56,6 +56,9 @@ Jiaolong Yang2 Xin Tong2
 
 ### Year 2023 
 
+* **A Sign Language Recognition System with Pepper, Lightweight-Transformer**, and LLM, JongYoon Lim, Inkyu Sa, Bruce MacDonald, Ho Seok Ahn
+  [[Paper](https://arxiv.org/abs/2309.16898)] 
+
 * Moryossef, A., Jiang, Z., Müller, M., Ebling, S., & Goldberg, Y. (2023). **Linguistically Motivated Sign Language Segmentation.** arXiv preprint arXiv:2310.13960.
   [[Paper](https://arxiv.org/pdf/2310.13960.pdf)] 
 
