@@ -37,6 +37,10 @@
 
 ### Year 2024 
 
+
+* **Radar-Based Recognition of Static Hand Gestures in American Sign Language**, Christian Schuessler, Wenxuan Zhang, Johanna Bräunig, Marcel Hoffmann, Michael Stelzig, Martin Vossiek
+  [[Paper](https://arxiv.org/abs/2402.12800)] 
+
 * **SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning**,
   Hao Chen, Jiaze Wang, Ziyu Guo, Jinpeng Li, Donghao Zhou, Bian Wu, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng 
   [[Paper](https://arxiv.org/pdf/2401.11847.pdf)]
