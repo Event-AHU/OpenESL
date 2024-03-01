@@ -38,6 +38,8 @@
 ### Year 2024 
 
 
+* **Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation**, Qidan Zhu, Jing Li, Fei Yuan, Quan Gan [[Paper](https://arxiv.org/abs/2402.19118)] 
+
 * **Radar-Based Recognition of Static Hand Gestures in American Sign Language**, Christian Schuessler, Wenxuan Zhang, Johanna Bräunig, Marcel Hoffmann, Michael Stelzig, Martin Vossiek
   [[Paper](https://arxiv.org/abs/2402.12800)] 
 
