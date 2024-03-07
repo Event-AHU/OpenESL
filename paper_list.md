@@ -37,6 +37,8 @@
 
 ### Year 2024 
 
+* **Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas**, Aashaka Desai, Maartje De Meulder, Julie A. Hochgesang, Annemarie Kocab, Alex X. Lu
+  [[Paper](https://arxiv.org/abs/2403.02563)] 
 
 * **Continuous Sign Language Recognition Based on Motor attention mechanism and frame-level Self-distillation**, Qidan Zhu, Jing Li, Fei Yuan, Quan Gan [[Paper](https://arxiv.org/abs/2402.19118)] 
 
