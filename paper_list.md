@@ -35,7 +35,19 @@
 * **EventAHU_DVS346_CSL**: https://wpan.ahu.edu.cn/l/GFODFg 
 
 
+
+
+
+
+
+
+
+
 ### Year 2024 
+
+* [AAAI-2024] **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**, Rui Zhao, Liang Zhang, Biao Fu, Cong Hu, Jinsong Su, Yidong Chen 
+  [[Paper](https://arxiv.org/abs/2312.15645)]
+  [[Code](https://github.com/rzhao-zhsq/CV-SLT)]
 
 * **Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas**, Aashaka Desai, Maartje De Meulder, Julie A. Hochgesang, Annemarie Kocab, Alex X. Lu
   [[Paper](https://arxiv.org/abs/2403.02563)] 
