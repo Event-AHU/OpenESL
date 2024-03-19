@@ -45,6 +45,9 @@
 
 ### Year 2024 
 
+* **TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions**, Hui Lu, Albert Ali Salah, Ronald Poppe
+  [[Paper](https://arxiv.org/abs/2403.11818)] 
+
 * [AAAI-2024] **Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment**, Rui Zhao, Liang Zhang, Biao Fu, Cong Hu, Jinsong Su, Yidong Chen 
   [[Paper](https://arxiv.org/abs/2312.15645)]
   [[Code](https://github.com/rzhao-zhsq/CV-SLT)]
