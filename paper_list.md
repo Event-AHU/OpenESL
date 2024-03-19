@@ -45,6 +45,9 @@
 
 ### Year 2024 
 
+* **Using an LLM to Turn Sign Spottings into Spoken Language Sentences**, Ozge Mercanoglu Sincan, Necati Cihan Camgoz, Richard Bowden
+  [[Paper](https://arxiv.org/abs/2403.10434)] 
+
 * **TCNet: Continuous Sign Language Recognition from Trajectories and Correlated Regions**, Hui Lu, Albert Ali Salah, Ronald Poppe
   [[Paper](https://arxiv.org/abs/2403.11818)] 
 
