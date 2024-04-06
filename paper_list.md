@@ -45,6 +45,14 @@
 
 ### Year 2024 
 
+
+* 
+
+* "**StepNet: Spatial-temporal Part-aware Network for Isolated Sign Language Recognition.**"
+  Shen, Xiaolong, Zhedong Zheng, and Yi Yang. 
+  ACM Transactions on Multimedia Computing, Communications and Applications (2024).
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3656046)]
+
 * **Using an LLM to Turn Sign Spottings into Spoken Language Sentences**, Ozge Mercanoglu Sincan, Necati Cihan Camgoz, Richard Bowden
   [[Paper](https://arxiv.org/abs/2403.10434)] 
 
