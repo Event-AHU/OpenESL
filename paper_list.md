@@ -46,7 +46,10 @@
 ### Year 2024 
 
 
-* 
+* **Improving Continuous Sign Language Recognition with Adapted Image Models**,
+  Lianyu Hu, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng, arXiv:2404.08226 
+  [[Paper](https://arxiv.org/abs/2404.08226)]
+  [[Code](https://github.com/hulianyuyy/AdaptSign)] 
 
 * "**StepNet: Spatial-temporal Part-aware Network for Isolated Sign Language Recognition.**"
   Shen, Xiaolong, Zhedong Zheng, and Yi Yang. 
