@@ -52,11 +52,9 @@
 
 
 
-* [] **222** ppp, [Paper] [Code]
+*  **Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition** Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng, [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[Code](https://github.com/hulianyuyy/DSTA-SLR)]
 
-* [] **222** ppp, [Paper] [Code]
-
-* [] **222** ppp, [Paper] [Code]
+* **Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets** Ahmet Alp Kindiroglu, Ozgur Kara, Ogulcan Ozdemir and Lale Akarun, [[Paper](https://arxiv.org/pdf/2403.14534.pdf)] [Code]
 
 
 * **Improving Continuous Sign Language Recognition with Adapted Image Models**,
