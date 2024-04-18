@@ -51,6 +51,10 @@
 ### Year 2024 
 
 
+* **CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation**, arXiv:2404.11111 
+  Lianyu Hu, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan 
+  [[Paper](https://arxiv.org/abs/2404.11111)]
+  [[Code](https://github.com/hulianyuyy/CorrNet_Plus)] 
 
 *  **Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition** Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng, [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[Code](https://github.com/hulianyuyy/DSTA-SLR)]
 
