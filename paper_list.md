@@ -51,6 +51,10 @@
 ### Year 2024 
 
 
+* **Enhancing Brazilian Sign Language Recognition through Skeleton Image Representation**, arXiv:2404.19148, 
+  Carlos Eduardo G. R. Alves, Francisco de Assis Boldt, Thiago M. Paixão
+  [[Paper](https://arxiv.org/abs/2404.19148)] 
+
 * **CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation**, arXiv:2404.11111 
   Lianyu Hu, Wei Feng, Liqing Gao, Zekang Liu, Liang Wan 
   [[Paper](https://arxiv.org/abs/2404.11111)]
