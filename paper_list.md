@@ -51,6 +51,12 @@
 ### Year 2024 
 
 
+* **A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News**, LREC-COLING 2024, 
+  Zhe Niu, Ronglai Zuo, Brian Mak, Fangyun Wei
+  [[Paper](https://arxiv.org/abs/2405.00980)]
+  [[Homepage](https://tvb-hksl-news.github.io/)]
+  [[Github](https://github.com/tvb-hksl-news)] 
+
 * **Enhancing Brazilian Sign Language Recognition through Skeleton Image Representation**, arXiv:2404.19148, 
   Carlos Eduardo G. R. Alves, Francisco de Assis Boldt, Thiago M. Paixão
   [[Paper](https://arxiv.org/abs/2404.19148)] 
