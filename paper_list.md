@@ -51,6 +51,10 @@
 ### Year 2024 
 
 
+* [ICLR 2024] **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**, arXiv:2405.04164, 
+  Ryan Wong, Necati Cihan Camgoz, Richard Bowden
+  [[Paper](https://arxiv.org/abs/2405.04164)] 
+
 * **A Hong Kong Sign Language Corpus Collected from Sign-interpreted TV News**, LREC-COLING 2024, 
   Zhe Niu, Ronglai Zuo, Brian Mak, Fangyun Wei
   [[Paper](https://arxiv.org/abs/2405.00980)]
