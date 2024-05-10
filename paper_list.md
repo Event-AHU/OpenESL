@@ -50,6 +50,10 @@
 
 ### Year 2024 
 
+* [arXiv:2405.05672] **Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation**, 
+  Mo Guan, Yan Wang, Guangkun Ma, Jiarui Liu, Mingzu Sun
+  [[Paper](https://arxiv.org/abs/2405.05672)]
+  [[Code](https://github.com/sutwangyan/MSKA)] 
 
 * [ICLR 2024] **Sign2GPT: Leveraging Large Language Models for Gloss-Free Sign Language Translation**, arXiv:2405.04164, 
   Ryan Wong, Necati Cihan Camgoz, Richard Bowden
