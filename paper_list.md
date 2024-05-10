@@ -9,6 +9,9 @@
 
 ## Dataset 
 
+* **YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus**, Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Datasets and Benchmarks Track
+  [[Page](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5c61452daca5f0c260e683b317d13a3f-Abstract-Datasets_and_Benchmarks.html)] 
+
 * **BdSLW60: A Word-Level Bangla Sign Language Dataset**, Husne Ara Rubaiyeat, Hasan Mahmud, Ahsan Habib, Md. Kamrul Hasan
   [[Paper](https://arxiv.org/abs/2402.08635)] 
 
