@@ -22,12 +22,9 @@
 [[Project Page](https://dxli94.github.io/WLASL/)]
 [[Code](https://github.com/dxli94/WLASL)] 
 
-
-  
 * **PHOENIX-2014** || **Continuous Sign Language Recognition: Towards Large Vocabulary Statistical Recognition Systems Handling Multiple Signers** Oscar Koller, Jens Forster, Hermann Ney [[Paper](https://www-i6.informatik.rwth-aachen.de/publications/download/996/Koller-CVIU-2015.pdf)] [[Dataset](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)],  German, 1,081 Sign Classes by 9 Signers. 6,841 Samples
   
 * [CVPR18]**PHOENIX-2014-T** || **Neural Sign Language Translation** Necati Cihan Camgoz1 , Simon Hadfield1 , Oscar Koller2 , Hermann Ney2 , Richard Bowden [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf)] [[Code](https://github.com/neccam/nslt)] [[Dataset](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/)],  German, 1,066 Sign Classes by 9 Signers. 8,257 Samples
-
 
 * [AAAI18]**CSL** || **Video-Based Sign Language Recognition without Temporal Segmentation** J. Jie Huang,1 Wengang Zhou,2 Qilin Zhang,3 Houqiang Li,4 Weiping Li [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/11903)] [Code] [[Dataset](http://mccipc.ustc.edu.cn/mediawiki/index.php/SLR)],  Chinese, 178 Sign Classes by 50 Signers. 25000 Samples
   
@@ -53,6 +50,10 @@
 
 ### Year 2024 
 
+* [arXiv:2405.07663] **Sign Stitching: A Novel Approach to Sign Language Production**, 
+  Harry Walsh, Ben Saunders, Richard Bowden
+  [[Paper](https://arxiv.org/abs/2405.07663)] 
+  
 * [arXiv:2405.05672] **Multi-Stream Keypoint Attention Network for Sign Language Recognition and Translation**, 
   Mo Guan, Yan Wang, Guangkun Ma, Jiarui Liu, Mingzu Sun
   [[Paper](https://arxiv.org/abs/2405.05672)]
