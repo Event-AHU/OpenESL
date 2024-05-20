@@ -50,6 +50,15 @@
 
 ### Year 2024 
 
+* [arXiv:2405.10423] **Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**,
+  Mohamed Ilyes Lakhal, Richard Bowden 
+  [[Paper](https://arxiv.org/abs/2405.10423)]
+
+* [arXiv:2405.10718] **SignLLM: Sign Languages Production Large Language Models**,
+  Sen Fang, Lei Wang, Ce Zheng, Yapeng Tian, Chen Chen
+  [[Paper](https://arxiv.org/abs/2405.10718)]
+  [[Project](https://signllm.github.io/)] 
+
 * [arXiv:2405.07663] **Sign Stitching: A Novel Approach to Sign Language Production**, 
   Harry Walsh, Ben Saunders, Richard Bowden
   [[Paper](https://arxiv.org/abs/2405.07663)] 
