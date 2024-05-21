@@ -50,6 +50,12 @@
 
 ### Year 2024 
 
+
+
+* [arXiv:2405.12018] **Continuous Sign Language Recognition with Adapted Conformer via Unsupervised Pretraining**,
+  Neena Aloysius, Geetha M, Prema Nedungadi
+  [[Paper](https://arxiv.org/abs/2405.12018)] 
+
 * [arXiv:2405.10423] **Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**,
   Mohamed Ilyes Lakhal, Richard Bowden 
   [[Paper](https://arxiv.org/abs/2405.10423)]
