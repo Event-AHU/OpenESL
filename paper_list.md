@@ -50,7 +50,9 @@
 
 ### Year 2024 
 
-
+* [arXiv:2405.14312] **Improving Gloss-free Sign Language Translation by Reducing Representation Density**, Jinhui Ye, Xing Wang, Wenxiang Jiao, Junwei Liang, Hui Xiong 
+  [[Paper](https://arxiv.org/abs/2405.14312)]
+  [[Code](https://github.com/JinhuiYE/SignCL)] 
 
 * [arXiv:2405.12018] **Continuous Sign Language Recognition with Adapted Conformer via Unsupervised Pretraining**,
   Neena Aloysius, Geetha M, Prema Nedungadi
