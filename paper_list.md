@@ -97,8 +97,9 @@
 
 *  **Dynamic Spatial-Temporal Aggregation for Skeleton-Aware Sign Language Recognition** Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng, [[Paper](https://arxiv.org/pdf/2403.12519.pdf)] [[Code](https://github.com/hulianyuyy/DSTA-SLR)]
 
-* **Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets** Ahmet Alp Kindiroglu, Ozgur Kara, Ogulcan Ozdemir and Lale Akarun, [[Paper](https://arxiv.org/pdf/2403.14534.pdf)] [Code]
-
+* **Transfer Learning for Cross-dataset Isolated Sign Language Recognition in Under-Resourced Datasets** Ahmet Alp Kindiroglu, Ozgur Kara, Ogulcan Ozdemir and Lale Akarun,
+  [[Paper](https://arxiv.org/pdf/2403.14534.pdf)]
+  [[Code]()]
 
 * **Improving Continuous Sign Language Recognition with Adapted Image Models**,
   Lianyu Hu, Tongkai Shi, Liqing Gao, Zekang Liu, Wei Feng, arXiv:2404.08226 
@@ -131,7 +132,7 @@
 * **SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning**,
   Hao Chen, Jiaze Wang, Ziyu Guo, Jinpeng Li, Donghao Zhou, Bian Wu, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng 
   [[Paper](https://arxiv.org/pdf/2401.11847.pdf)]
-  [[Paper](https://socialgoodai.github.io/)]
+  [[Code](https://socialgoodai.github.io/)]
 
 * **A Simple Baseline for Spoken Language to Sign Language Translation with 3D Avatars**, Ronglai Zuo1* Fangyun Wei2* † Zenggui Chen2 Brian Mak1
 Jiaolong Yang2 Xin Tong2
@@ -147,12 +148,12 @@ Jiaolong Yang2 Xin Tong2
 
 ### Year 2023 
 
-* [ICCV23] **Human Part-wise 3D Motion Context Learning for Sign Language Recognition** Taeryung Lee, Yeonguk Oh, Kyoung Mu Lee, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
+* [ICCV 2023] **Human Part-wise 3D Motion Context Learning for Sign Language Recognition** Taeryung Lee, Yeonguk Oh, Kyoung Mu Lee, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
 
 * **A Sign Language Recognition System with Pepper, Lightweight-Transformer**, and LLM, JongYoon Lim, Inkyu Sa, Bruce MacDonald, Ho Seok Ahn
   [[Paper](https://arxiv.org/abs/2309.16898)] 
 
-* Moryossef, A., Jiang, Z., Müller, M., Ebling, S., & Goldberg, Y. (2023). **Linguistically Motivated Sign Language Segmentation.** arXiv preprint arXiv:2310.13960.
+* **Linguistically Motivated Sign Language Segmentation.** Moryossef, A., Jiang, Z., Müller, M., Ebling, S., & Goldberg, Y. (2023). arXiv preprint arXiv:2310.13960. 
   [[Paper](https://arxiv.org/pdf/2310.13960.pdf)] 
 
 * **Sign Language Production with Latent Motion Transformer**, Pan Xie Taiying Peng* Yao Du Qipeng Zhang, 
@@ -176,6 +177,7 @@ Jiaolong Yang2 Xin Tong2
 
 
 ### Year 2022 
+
 * **Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation.** Yucheng Suo, Zhedong Zheng, Xiaohan Wang, Bang Zhang and Yi Yang,  arXiv 2022 
 [[Paper](https://arxiv.org/pdf/2207.03714.pdf)]
 
