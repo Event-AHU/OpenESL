@@ -50,6 +50,9 @@
 
 ### Year 2024 
 
+* Lin X, Liu M, Liu K, et al. **Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition**[J]. 2024.
+  [[Paper](https://hal.science/hal-04572397/document)] 
+
 * [arXiv:2405.14312] **Improving Gloss-free Sign Language Translation by Reducing Representation Density**, Jinhui Ye, Xing Wang, Wenxiang Jiao, Junwei Liang, Hui Xiong 
   [[Paper](https://arxiv.org/abs/2405.14312)]
   [[Code](https://github.com/JinhuiYE/SignCL)] 
