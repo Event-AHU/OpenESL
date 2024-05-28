@@ -1,4 +1,7 @@
-# Event-SLR
+# OpenESL: Sign Language Translation/Recognition using Event Camera 
+
+
+### 
 
 
 
