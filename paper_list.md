@@ -50,6 +50,10 @@
 
 ### Year 2024 
 
+* **Uncertainty-aware sign language video retrieval with probability distribution modeling**,
+  Xuan Wu, Hongxiang Li, Yuanjiang Luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu
+  [[Paper](https://arxiv.org/abs/2405.19689)] 
+
 * Lin X, Liu M, Liu K, et al. **Spike-SLR: An Energy-efficient Parallel Spiking Transformer for Event-based Sign Language Recognition**[J]. 2024.
   [[Paper](https://hal.science/hal-04572397/document)] 
 
