@@ -1,5 +1,3 @@
-
-
 ## Survey 
 * **A survey on sign language literature**, Marie Alaghband, Hamid Reza Maghroor, Ivan Garibay, [[Paper](https://www.sciencedirect.com/science/article/pii/S2666827023000579)]
 
@@ -49,6 +47,11 @@
 
 
 ### Year 2024 
+
+
+
+* [arXiv:2405.20666] **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**, Weichao Zhao, Hezhen Hu, Wengang Zhou, Yunyao Mao, Min Wang, Houqiang Li
+  [[Paper](https://arxiv.org/abs/2405.20666)] 
 
 * **Uncertainty-aware sign language video retrieval with probability distribution modeling**,
   Xuan Wu, Hongxiang Li, Yuanjiang Luo, Xuxin Cheng, Xianwei Zhuang, Meng Cao, Keren Fu
