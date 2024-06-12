@@ -49,7 +49,15 @@
 ### Year 2024 
 
 
+* [arXiv:2406.07119] **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**, 
+  Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang
+  [[Paper](https://arxiv.org/abs/2406.07119)]
+  [[Project](https://t2sgpt-demo.yinaoxiong.cn/)]  
 
+* [arXiv:2406.06907] **SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale**, 
+  Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu
+  [[Paper](https://arxiv.org/abs/2406.06907)] 
+  
 * [arXiv:2405.20666] **MASA: Motion-aware Masked Autoencoder with Semantic Alignment for Sign Language Recognition**, Weichao Zhao, Hezhen Hu, Wengang Zhou, Yunyao Mao, Min Wang, Houqiang Li
   [[Paper](https://arxiv.org/abs/2405.20666)] 
 
