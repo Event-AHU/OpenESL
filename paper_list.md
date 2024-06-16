@@ -49,6 +49,8 @@
 ### Year 2024 
 
 
+
+
 * [arXiv:2406.07119] **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**, 
   Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang
   [[Paper](https://arxiv.org/abs/2406.07119)]
@@ -165,6 +167,9 @@ Jiaolong Yang2 Xin Tong2
 
 
 ### Year 2023 
+
+* [RANLP 2023] Li, Jacky, et al. "**Sign Language Recognition and Translation: A Multi-Modal Approach using Computer Vision and Natural Language Processing.**" Proceedings of the 14th International Conference on Recent Advances in Natural Language Processing. 2023.
+  [[Paper](https://aclanthology.org/2023.ranlp-1.71/)] 
 
 * [ICCV 2023] **Human Part-wise 3D Motion Context Learning for Sign Language Recognition** Taeryung Lee, Yeonguk Oh, Kyoung Mu Lee, [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Human_Part-wise_3D_Motion_Context_Learning_for_Sign_Language_Recognition_ICCV_2023_paper.pdf)]
 
