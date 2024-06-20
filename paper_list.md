@@ -49,7 +49,8 @@
 ### Year 2024 
 
 
-
+* [arXiv:2406.12369] **A Comparative Study of Continuous Sign Language Recognition Techniques**, Sarah Alyami, Hamzah Luqman
+  [[Paper](https://arxiv.org/abs/2406.12369)]
 
 * [arXiv:2406.07119] **T2S-GPT: Dynamic Vector Quantization for Autoregressive Sign Language Production from Text**, 
   Aoxiong Yin, Haoyuan Li, Kai Shen, Siliang Tang, Yueting Zhuang
