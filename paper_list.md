@@ -49,6 +49,9 @@
 ### Year 2024 
 
 
+* [arXiv:2407.09544] **A Transformer-Based Multi-Stream Approach for Isolated Iranian Sign Language Recognition**, Ali Ghadami, Alireza Taheri, Ali Meghdari
+  [[Paper](https://arxiv.org/abs/2407.09544)] 
+
 * [arXiv:2407.02854] **Universal Gloss-level Representation for Gloss-free Sign Language Translation and Production**,
   Eui Jun Hwang, Sukmin Cho, Huije Lee, Youngwoo Yoon, Jong C. Park
   [[Paper](https://arxiv.org/abs/2407.02854)] 
