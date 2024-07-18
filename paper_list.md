@@ -7,6 +7,10 @@
 
 ## Dataset 
 
+* [arXiv:2407.12593] **EvSign: Sign Language Recognition and Translation with Streaming Events**, Pengyu Zhang, Hao Yin, Zeren Wang, Wenyue Chen, Shengming Li, Dong Wang, Huchuan Lu, and Xu Jia
+  [[Paper](https://arxiv.org/abs/2407.12593)]
+  [[Code](https://zhang-pengyu.github.io/EVSign/)] 
+
 * **YouTube-ASL: A Large-Scale, Open-Domain American Sign Language-English Parallel Corpus**, Part of Advances in Neural Information Processing Systems 36 (NeurIPS 2023) Datasets and Benchmarks Track
   [[Page](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5c61452daca5f0c260e683b317d13a3f-Abstract-Datasets_and_Benchmarks.html)] 
 
