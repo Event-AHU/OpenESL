@@ -53,6 +53,9 @@
 ### Year 2024 
 
 
+* [arXiv:2407.14224] **Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**, Suvajit Patra, Arkadip Maitra, Megha Tiwari, K. Kumaran, Swathy Prabhu, Swami Punyeshwarananda, Soumitra Samanta
+  [[Paper](https://arxiv.org/abs/2407.14224)] 
+
 * [arXiv:2407.09544] **A Transformer-Based Multi-Stream Approach for Isolated Iranian Sign Language Recognition**, Ali Ghadami, Alireza Taheri, Ali Meghdari
   [[Paper](https://arxiv.org/abs/2407.09544)] 
 
