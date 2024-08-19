@@ -1,4 +1,7 @@
-# Event-CSL 
+<p align="center">
+  # Event-CSL 
+</p>
+
 A Large-scale High-Definition Benchmark Dataset for Event-based Sign Language Translation 
 
 
