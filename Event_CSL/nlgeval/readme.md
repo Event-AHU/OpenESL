@@ -6,6 +6,7 @@ If you have this problem:
 No such file or directory: 'java'
 
 Download java package: 
+
 link：https://pan.baidu.com/s/1ZbfVS-xl6Zd8f0akXeKJ5g?pwd=EAHU 
 pwd：EAHU
 
