@@ -1,0 +1,1 @@
+pip install git+https://github.com/Maluuba/nlg-eval.git@master
