@@ -7,7 +7,11 @@ Sign Language Translation (SLT) is a core task in the field of AI-assisted disab
 
 
 ## Demo Video
-
+<p align="center">
+  <a href="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/sign_video_demo.mp4">
+    <img src="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_demos.jpg" alt="DemoVideo" width="800"/>
+  </a>
+</p>
 
 
 
