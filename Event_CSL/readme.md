@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong style="font-size:30px;">Event-CSL</strong>
+  <strong style="font-size:50px;">Event-CSL</strong>
 </p>
 <p align="center">
   A Large-scale High-Definition Benchmark Dataset for Event-based Sign Language Translation 
