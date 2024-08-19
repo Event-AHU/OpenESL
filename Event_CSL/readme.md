@@ -29,6 +29,37 @@ Sign Language Translation (SLT) is a core task in the field of AI-assisted disab
 </div>
 
 
+## Download the Event-CSL dataset 
+
+* **BaiduYun**: 
+```
+raw bin file obtained from Prophesee EVK4-HD Event camera： 
+Link：  Password：
+```
+
+The directory should have the below format:
+```Shell
+├── Event_CSL
+    ├── SL_raw_image (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
+        ├── 0001
+            ├── 0000.png
+            ├── 0001.png
+            ├── 0002.png
+            ├── ...
+        ├── 0002
+            ├── 0000.png
+            ├── 0001.png
+            ├── 0002.png
+            ├── ...
+        ├── 0003
+        ├── ...
+    ├── annotations
+        ├── train.pkl
+        ├── dev.pkl
+        ├── test.pkl
+```
+
+
 ## Environment Setting 
 ```
 conda create -n eventslt python=3.10.13
