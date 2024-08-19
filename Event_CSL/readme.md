@@ -2,7 +2,7 @@
 A Large-scale High-Definition Benchmark Dataset for Event-based Sign Language Translation 
 
 <div align="center">
-<img src="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_demos.jpg" width="600">
+<img src=["https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/videonumber_resolution.jpg", "https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_demos.jpg"] width="600">
 </div>
 
 
