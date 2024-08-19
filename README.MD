@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/Event-AHU/OpenESL/blob/main/EventCSL_gif.gif" width="300">
+<img src="https://github.com/Event-AHU/OpenESL/blob/main/EventCSL_gif.gif" width="500">
 </p>
 
 ## :dart: Update Log: 
