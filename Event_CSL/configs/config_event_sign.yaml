@@ -1,9 +1,9 @@
 name: Event-sign
 data:
 
-  train_label_path: /path/Event_SL_720x1280/annotations/train_label_SL.pkl
-  dev_label_path: /path/Event_SL_720x1280/annotations/val_label_SL.pkl
-  test_label_path: /path/Event_SL_720x1280/annotations/test_label_SL.pkl
+  train_label_path: ./label/event_csl/train.pkl
+  dev_label_path: ./label/event_csl/dev.pkl
+  test_label_path: ./label/event_csl/test.pkl
   img_path: /path/Event_SL_720x1280/SL_raw_image/
 
   max_length: 300 # frame num
