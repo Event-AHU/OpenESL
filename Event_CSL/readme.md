@@ -1,4 +1,4 @@
-#### Event-CSL 
+# Event-CSL 
 A Large-scale High-Definition Benchmark Dataset for Event-based Sign Language Translation 
 
 
@@ -8,7 +8,8 @@ Sign Language Translation (SLT) is a core task in the field of AI-assisted disab
 
 ## Demo Video
 <p align="center">
-  <a href="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/sign_video_demo.mp4">
+  <a>
+    <iframe width="800" src="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/sign_video_demo.mp4" frameborder="0" allowfullscreen></iframe>
     <img src="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_demos.jpg" alt="DemoVideo" width="800"/>
   </a>
 </p>
