@@ -40,7 +40,7 @@ bash test_run.sh
 
 
 ## Acknowledgement 
-### Our code is implemented based on <a href="https://github.com/open-mmlab/mmaction2">MMAction2</a>.
+### Our code is implemented based on <a href="https://github.com/zhoubenjia/GFSLT-VLP">GFSLT-VLP</a><a href="https://github.com/hustvl/Vim">Vim</a>.
 
 
 ## Citation 
