@@ -23,8 +23,19 @@ Sign Language Translation (SLT) is a core task in the field of AI-assisted disab
 </div>
 
 
-## Environment Setting 
+## Quality_Analysis
+<div align="center">
+<img src="https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/quality_analysis.jpg" width="800">  
+</div>
 
+
+## Environment Setting 
+```
+conda create -n eventslt python=3.10.13
+conda activate eventslt
+pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
+pip install -r requirements.txt
+```
 
 ## Train & Test
 ```
@@ -37,7 +48,7 @@ cd Event_CSL
 bash test_run.sh
 ```
 
-## Experimental Results and Visualization
+
 
 
 ## Acknowledgement 
