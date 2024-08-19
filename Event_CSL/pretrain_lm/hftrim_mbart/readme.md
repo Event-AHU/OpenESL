@@ -1,4 +1,4 @@
 File: hftrim_mbart
 
-链接：https://pan.baidu.com/s/1ZbfVS-xl6Zd8f0akXeKJ5g?pwd=EAHU 
-提取码：EAHU
+link：https://pan.baidu.com/s/1ZbfVS-xl6Zd8f0akXeKJ5g?pwd=EAHU 
+pwd：EAHU
