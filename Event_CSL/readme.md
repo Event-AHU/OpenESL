@@ -40,7 +40,7 @@ Link：  Password：
 The directory should have the below format:
 ```Shell
 ├── Event_CSL
-    ├── SL_raw_image (124,625 videos (training subset: 99,642 videos;  testing subset: 24,983 videos;))
+    ├── SL_raw_image 14827 videos (training subset: 12,602 videos; valid subset: 741 videos; testing subset: 1,484 videos;))
         ├── 0001
             ├── 0000.png
             ├── 0001.png
