@@ -1,9 +1,6 @@
 # OpenESL: Sign Language Translation/Recognition using Event Camera 
 
-
-
-![EventCSL_gif](https://github.com/Event-AHU/OpenESL/blob/main/EventCSL_gif.gif)
-
+<img src="https://github.com/Event-AHU/OpenESL/blob/main/EventCSL_gif.gif" width="300">
 
 ## :dart: Update Log: 
 
