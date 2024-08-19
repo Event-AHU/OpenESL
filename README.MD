@@ -1,6 +1,10 @@
 # OpenESL: Sign Language Translation/Recognition using Event Camera 
 
 
+
+![EventCSL_gif](https://github.com/Event-AHU/OpenESL/blob/main/EventCSL_gif.gif)
+
+
 ## :dart: Update Log: 
 
 * [Aug-19, 2024] Event-CSL Benchmark Dataset for Sign Language Translation is released. 
