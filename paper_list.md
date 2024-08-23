@@ -52,7 +52,14 @@
 
 ### Year 2024 
 
+* [arXiv:2408.07244] **Sign language recognition based on deep learning and low-cost handcrafted descriptors**,
+  Alvaro Leandro Cavalcante Carneiro, Denis Henrique Pinheiro Salvadeo, Lucas de Brito Silva
+  [[Paper](https://arxiv.org/abs/2408.07244)] 
 
+* [arXiv:2408.07244] **Sign language recognition based on deep learning and low-cost handcrafted descriptors**,
+  Alvaro Leandro Cavalcante Carneiro, Denis Henrique Pinheiro Salvadeo, Lucas de Brito Silva
+  [[Paper](https://arxiv.org/abs/2408.07244)]
+  
 * [arXiv:2408.07065] **Fingerspelling within Sign Language Translation**, Garrett Tanzer
   [[Paper](https://arxiv.org/abs/2408.07065)] 
 
