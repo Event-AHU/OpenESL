@@ -53,6 +53,13 @@
 ### Year 2024 
 
 
+* [arXiv:2408.07065] **Fingerspelling within Sign Language Translation**, Garrett Tanzer
+  [[Paper](https://arxiv.org/abs/2408.07065)] 
+
+* [arXiv:2408.08544] **Scaling up Multimodal Pre-training for Sign Language Understanding**,
+  Wengang Zhou, Weichao Zhao, Hezhen Hu, Zecheng Li, Houqiang Li
+  [[Paper](https://arxiv.org/abs/2408.08544)] 
+  
 * [arXiv:2407.14224] **Hierarchical Windowed Graph Attention Network and a Large Scale Dataset for Isolated Indian Sign Language Recognition**, Suvajit Patra, Arkadip Maitra, Megha Tiwari, K. Kumaran, Swathy Prabhu, Swami Punyeshwarananda, Soumitra Samanta
   [[Paper](https://arxiv.org/abs/2407.14224)] 
 
