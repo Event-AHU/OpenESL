@@ -52,6 +52,11 @@
 
 ### Year 2024 
 
+
+* [TMM2024] **EvCSLR: Event-guided Continuous Sign Language Recognition and Benchmark**, Jiang, Yu and Wang, Yuehang and Li, Siqi and Zhang, Yongji and Guo, Qianren and Chu, Qi and Gao, Yue 
+  [[Paper]()] 
+  [[Code](https://github.com/diamondxx/EvCSLR)] 
+  
 * [arXiv:2408.07244] **Sign language recognition based on deep learning and low-cost handcrafted descriptors**,
   Alvaro Leandro Cavalcante Carneiro, Denis Henrique Pinheiro Salvadeo, Lucas de Brito Silva
   [[Paper](https://arxiv.org/abs/2408.07244)] 
