@@ -7,6 +7,14 @@
 
 ## Dataset 
 
+
+* [arXiv:2408.10488] **Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**, Xiao Wang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang, Yaowei Wang, arXiv 2024, 
+  [[Paper](https://arxiv.org/abs/2408.10488)]
+  [[Code](https://github.com/Event-AHU/OpenESL)]
+  
+* **EvCSLR: Event-guided Continuous Sign Language Recognition and Benchmark**, Jiang, Yu and Wang, Yuehang and Li, Siqi and Zhang, Yongji and Guo, Qianren and Chu, Qi and Gao, Yue
+  [[Code](https://github.com/diamondxx/EvCSLR)] 
+
 * [arXiv:2407.12593] **EvSign: Sign Language Recognition and Translation with Streaming Events**, Pengyu Zhang, Hao Yin, Zeren Wang, Wenyue Chen, Shengming Li, Dong Wang, Huchuan Lu, and Xu Jia
   [[Paper](https://arxiv.org/abs/2407.12593)]
   [[Code](https://zhang-pengyu.github.io/EVSign/)] 
@@ -53,6 +61,10 @@
 ### Year 2024 
 
 
+* [arXiv:2408.10488] **Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**, Xiao Wang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang, Yaowei Wang, arXiv 2024, 
+  [[Paper](https://arxiv.org/abs/2408.10488)]
+  [[Code](https://github.com/Event-AHU/OpenESL)]
+  
 * [TMM2024] **EvCSLR: Event-guided Continuous Sign Language Recognition and Benchmark**, Jiang, Yu and Wang, Yuehang and Li, Siqi and Zhang, Yongji and Guo, Qianren and Chu, Qi and Gao, Yue 
   [[Paper]()] 
   [[Code](https://github.com/diamondxx/EvCSLR)] 
