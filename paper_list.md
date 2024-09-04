@@ -7,7 +7,10 @@
 
 ## Dataset 
 
-
+* [arXiv:2409.01073] **SCOPE**: **Sign Language Contextual Processing with Embedding from LLMs**,
+  Yuqi Liu, Wenqian Zhang, Sihan Ren, Chengyu Huang, Jingyi Yu, Lan Xu
+  [[Paper](https://arxiv.org/abs/2409.01073)] 
+  
 * [arXiv:2408.10488] **Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**, Xiao Wang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang, Yaowei Wang, arXiv 2024, 
   [[Paper](https://arxiv.org/abs/2408.10488)]
   [[Code](https://github.com/Event-AHU/OpenESL)]
