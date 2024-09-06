@@ -8,6 +8,13 @@
 ## Dataset 
 
 
+* [CVPR 2024] **LLMs are Good Sign Language Translators**
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.pdf)] 
+  
+* [CVPR 2024] **Neural Sign Actors: A diffusion model for 3D sign language production from text**
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Baltatzis_Neural_Sign_Actors_A_Diffusion_Model_for_3D_Sign_Language_CVPR_2024_paper.pdf)]
+  [[Project](https://baltatzisv.github.io/neural-sign-actors/)]
+  
 * [CVPR 2024] **SignGraph: A Sign Sequence is Worth Graphs of Nodes**,
   Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Hongkai Wen, Lei Xie, Sanglu Lu
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf)] 
