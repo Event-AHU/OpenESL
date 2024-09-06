@@ -8,6 +8,11 @@
 ## Dataset 
 
 
+* [CVPR 2024] **SignGraph: A Sign Sequence is Worth Graphs of Nodes**,
+  Shiwei Gan, Yafeng Yin, Zhiwei Jiang, Hongkai Wen, Lei Xie, Sanglu Lu
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gan_SignGraph_A_Sign_Sequence_is_Worth_Graphs_of_Nodes_CVPR_2024_paper.pdf)] 
+  [[Code](https://github.com/gswycf/SignGraph)] 
+  
 * [Sign Language Recognition Dataset] **Enhancing SNN-based spatio-temporal learning: A benchmark dataset and Cross-Modality Attention model**,
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024006014?fr=RR-2&ref=pdf_download&rr=8becb86cfaea5def)] 
   
