@@ -7,6 +7,10 @@
 
 ## Dataset 
 
+
+* [Sign Language Recognition Dataset] **Enhancing SNN-based spatio-temporal learning: A benchmark dataset and Cross-Modality Attention model**,
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024006014?fr=RR-2&ref=pdf_download&rr=8becb86cfaea5def)] 
+  
 * [arXiv:2409.01073] **SCOPE**: **Sign Language Contextual Processing with Embedding from LLMs**,
   Yuqi Liu, Wenqian Zhang, Sihan Ren, Chengyu Huang, Jingyi Yu, Lan Xu
   [[Paper](https://arxiv.org/abs/2409.01073)] 
