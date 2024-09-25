@@ -35,7 +35,8 @@ Sign Language Translation (SLT) is a core task in the field of AI-assisted disab
 * **BaiduYun**: 
 ```
 raw bin file obtained from Prophesee EVK4-HD Event camera： 
-Link：  Password：
+链接：https://pan.baidu.com/s/11yGZOhF2IpJGi0D5aOHQSA?pwd=1234 
+提取码：1234
 ```
 
 The directory should have the below format:
