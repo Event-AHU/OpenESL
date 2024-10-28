@@ -7,6 +7,10 @@
 
 ## Dataset 
 
+* [arXiv:2410.19488] **MM-WLAuslan: Multi-View Multi-Modal Word-Level Australian Sign Language Recognition Dataset**,
+  Xin Shen, Heming Du, Hongwei Sheng, Shuyun Wang, Hui Chen, Huiqiang Chen, Zhuojie Wu, Xiaobiao Du, Jiaying Ying, Ruihan Lu, Qingzheng Xu, Xin Yu
+  [[Paper](https://arxiv.org/abs/2410.19488)]
+  [[Code](https://uq-cvlab.github.io/MM-WLAuslan-Dataset/)] 
 
 * [CVPR 2024] **LLMs are Good Sign Language Translators**
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Gong_LLMs_are_Good_Sign_Language_Translators_CVPR_2024_paper.pdf)] 
