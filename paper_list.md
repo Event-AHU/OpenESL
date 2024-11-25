@@ -84,7 +84,8 @@
 ### Year 2024 
 
 
-
+* [arXiv:2411.12901] **Signformer is all you need: Towards Edge AI for Sign Language**, Eta Yang, 
+  [[Paper](https://arxiv.org/pdf/2411.12901)] 
 
 * [arXiv:2410.19586] **Diverse Sign Language Translation**, Xin Shen, Lei Shen, Shaozu Yuan, Heming Du, Haiyang Sun, Xin Yu
   [[Paper](https://arxiv.org/abs/2410.19586)] 
