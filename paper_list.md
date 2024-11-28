@@ -84,7 +84,9 @@
 ### Year 2024 
 
 
-* 
+* **Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation**,
+  Shengeng Tang, Jiayi He, Lechao Cheng, Jingjing Wu, Dan Guo, Richang Hong
+  [[Paper](https://arxiv.org/abs/2411.16810)] 
 
 * **SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction**,
   Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu
