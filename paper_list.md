@@ -84,6 +84,12 @@
 ### Year 2024 
 
 
+* 
+
+* **SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction**,
+  Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu
+  [[Paper](https://arxiv.org/abs/2411.16765)] 
+  
 * [arXiv:2411.12901] **Signformer is all you need: Towards Edge AI for Sign Language**, Eta Yang, 
   [[Paper](https://arxiv.org/pdf/2411.12901)] 
 
