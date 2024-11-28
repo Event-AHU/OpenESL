@@ -84,10 +84,14 @@
 ### Year 2024 
 
 
+* **Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation**, 
+  Jungeun Kim, Hyeongwoo Jeon, Jongseong Bae, Ha Young Kim
+  [[Paper](https://arxiv.org/abs/2411.16789)]
+  
 * **Discrete to Continuous: Generating Smooth Transition Poses from Sign Language Observation**,
   Shengeng Tang, Jiayi He, Lechao Cheng, Jingjing Wu, Dan Guo, Richang Hong
   [[Paper](https://arxiv.org/abs/2411.16810)] 
-
+  
 * **SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction**,
   Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu
   [[Paper](https://arxiv.org/abs/2411.16765)] 
