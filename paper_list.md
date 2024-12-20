@@ -84,6 +84,11 @@
 ### Year 2024 
 
 
+* **DiffSLT: Enhancing Diversity in Sign Language Translation via Diffusion Model**, 
+  JiHwan Moon, Jihoon Park, Jungeun Kim, Jongseong Bae, Hyeongwoo Jeon, Ha Young Kim
+  [[Paper](https://arxiv.org/abs/2411.17248)]
+  [[Code](https://diffslt.github.io/)] 
+
 * **Leveraging the Power of MLLMs for Gloss-Free Sign Language Translation**, 
   Jungeun Kim, Hyeongwoo Jeon, Jongseong Bae, Ha Young Kim
   [[Paper](https://arxiv.org/abs/2411.16789)]
