@@ -84,6 +84,10 @@
 ### Year 2024 
 
 
+* [arXiv:2412.16524] **LLaVA-SLT: Visual Language Tuning for Sign Language Translation**,
+  Han Liang, Chengyu Huang, Yuecheng Xu, Cheng Tang, Weicai Ye, Juze Zhang, Xin Chen, Jingyi Yu, Lan Xu
+  [[Paper](https://arxiv.org/abs/2412.16524)] 
+
 * **DiffSLT: Enhancing Diversity in Sign Language Translation via Diffusion Model**, 
   JiHwan Moon, Jihoon Park, Jungeun Kim, Jongseong Bae, Hyeongwoo Jeon, Ha Young Kim
   [[Paper](https://arxiv.org/abs/2411.17248)]
