@@ -75,7 +75,11 @@
 
 
 
+### Year 2025 
 
+* [arXiv:2501.15187] **Uni-Sign: Toward Unified Sign Language Understanding at Scale**,
+  Zecheng Li, Wengang Zhou, Weichao Zhao, Kepeng Wu, Hezhen Hu, Houqiang Li
+  [[Paper](https://arxiv.org/abs/2501.15187)] 
 
 
 
