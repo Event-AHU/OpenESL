@@ -21,8 +21,9 @@ More specifically, we propose a new high-resolution Event stream sign language d
 ![Baseline](https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_framework.jpg)
 ![Baseline](https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_demos.jpg)
 
-
-https://github.com/user-attachments/assets/482d3b82-9287-4494-89e8-4d11e1a5b252
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/482d3b82-9287-4494-89e8-4d11e1a5b252" width="100%" poster=""> </video>
+</div>
 
 
 #### Other Materials 
