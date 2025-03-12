@@ -22,10 +22,7 @@ More specifically, we propose a new high-resolution Event stream sign language d
 ![Baseline](https://github.com/Event-AHU/OpenESL/blob/main/Event_CSL/figures/EventSLT_demos.jpg)
 
 
-<div align="center">
-  <video src="https://github.com/Event-AHU/OpenESL/blob/main/sign_demo.mp4" width="100%" poster=""> </video>
-</div>
-
+https://github.com/user-attachments/assets/482d3b82-9287-4494-89e8-4d11e1a5b252
 
 
 #### Other Materials 
