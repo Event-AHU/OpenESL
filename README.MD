@@ -31,7 +31,7 @@ More specifically, we propose a new high-resolution Event stream sign language d
 * **[Awesome-Sign-Language]**: https://github.com/ZechengLi19/Awesome-Sign-Language
 
 <div align="center">
-  <video src="https://github.com/Event-AHU/OpenESL/blob/main/sign_demo.mp4" width="100%" poster=""> </video>
+  <video src="https://github.com/Event-AHU/OpenESL/blob/main/sign_demo" width="100%" poster=""> </video>
 </div>
 
 
