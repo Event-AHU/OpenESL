@@ -26,37 +26,14 @@ More specifically, we propose a new high-resolution Event stream sign language d
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #### Other Materials 
 * **[Paper with code]**: https://paperswithcode.com/task/sign-language-recognition/codeless  
 * **[Awesome-Sign-Language]**: https://github.com/ZechengLi19/Awesome-Sign-Language
+
+<div align="center">
+  <video src="https://github.com/Event-AHU/OpenESL/blob/main/sign_video_demo.mp4" width="100%" poster=""> </video>
+</div>
+
 
 
 
