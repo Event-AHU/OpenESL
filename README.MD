@@ -10,6 +10,19 @@
 
 
 
+## :dart: [VECSL Benchmark Dataset]() 
+[arXiv:2503.06484] **Sign Language Translation using Frame and Event Stream: Benchmark Dataset and Algorithms**, 
+Xiao Wang, Yuehang Li, Fuling Wang, Bo Jiang, Yaowei Wang, Yonghong Tian, Jin Tang, Bin Luo
+arXiv:2503.06484 
+
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/a137e253-ba5a-4e03-a164-bb670dee08a1" width="100%" poster=""> </video>
+</div>
+
+
+
+
 ## :dart: [Event-CSL Benchmark Dataset]() 
 [arXiv:2408.10488] **Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**, 
 Xiao Wang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang, Yaowei Wang, arXiv 2024,   
