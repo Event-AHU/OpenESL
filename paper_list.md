@@ -77,6 +77,12 @@
 
 ### Year 2025 
 
+
+* **CORE: Multi-Link Graph Attention Network with Inter-Regional Collaboration for Continuous Sign Language Recognition**,
+  Yan Zhang, Wanli Xue∗, Yuxi Zhou, Tiantian Yuan, Shengyong Chen, Pattern Recognition 
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003760)]
+  [[Code](https://github.com/zhyanang/CORE)]
+  
 * [arXiv:2501.15187] **Uni-Sign: Toward Unified Sign Language Understanding at Scale**,
   Zecheng Li, Wengang Zhou, Weichao Zhao, Kepeng Wu, Hezhen Hu, Houqiang Li
   [[Paper](https://arxiv.org/abs/2501.15187)] 
