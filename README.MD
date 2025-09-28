@@ -56,6 +56,13 @@ If you find this work helps your research, please star this GitHub and cite the 
       url={https://arxiv.org/abs/2408.10488}, 
 }
 
+@article{wang2025FESLT,
+  title={Sign language translation using frame and event stream: Benchmark dataset and algorithms},
+  author={Wang, Xiao and Li, Yuehang and Wang, Fuling and Jiang, Bo and Wang, Yaowei and Tian, Yonghong and Tang, Jin and Luo, Bin},
+  journal={arXiv preprint arXiv:2503.06484},
+  year={2025}
+}
+
 ```
 
 If you have any questions about these works, please feel free to leave an issue. 
