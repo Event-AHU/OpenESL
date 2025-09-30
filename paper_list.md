@@ -78,6 +78,11 @@
 ### Year 2025 
 
 
+* **Sigma: Semantically Informative Pre-training for Skeleton-based Sign Language Understanding**, 
+Muxin Pu, Mei Kuan Lim, Chun Yong Chong, Chen Change Loy
+  [[Paper](https://arxiv.org/abs/2509.21223)] 
+
+
 * **CORE: Multi-Link Graph Attention Network with Inter-Regional Collaboration for Continuous Sign Language Recognition**,
   Yan Zhang, Wanli Xue∗, Yuxi Zhou, Tiantian Yuan, Shengyong Chen, Pattern Recognition 
   [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320325003760)]
