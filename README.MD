@@ -25,8 +25,8 @@ arXiv:2503.06484
 
 
 ## :dart: [Event-CSL Benchmark Dataset]() 
-[arXiv:2408.10488] **Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm**, 
-Xiao Wang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang, Yaowei Wang, arXiv 2024,   
+[arXiv:2408.10488] **Event Stream-based Sign Language Translation: A High-Definition Benchmark Dataset and A Novel Baseline**, 
+Shiao Wang, Xiao Wang, Duoqing Yang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang, arXiv 2025,   
 [[Paper](https://arxiv.org/abs/2408.10488)] 
 
 <div align="center">
