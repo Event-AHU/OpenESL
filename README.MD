@@ -46,14 +46,13 @@ Shiao Wang, Xiao Wang, Duoqing Yang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu,
 ## :newspaper: Citation 
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
-@misc{wang2024EventCSL,
-      title={Event Stream based Sign Language Translation: A High-Definition Benchmark Dataset and A New Algorithm}, 
-      author={Xiao Wang and Yao Rong and Fuling Wang and Jianing Li and Lin Zhu and Bo Jiang and Yaowei Wang},
-      year={2024},
+@misc{wang2025eventcsl,
+      title={Event Stream-based Sign Language Translation: A High-Definition Benchmark Dataset and A Novel Baseline}, 
+      author={Shiao Wang and Xiao Wang and Duoqing Yang and Yao Rong and Fuling Wang and Jianing Li and Lin Zhu and Bo Jiang},
+      year={2025},
       eprint={2408.10488},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.10488}, 
 }
 
 @article{wang2025FESLT,
