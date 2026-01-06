@@ -78,6 +78,10 @@
 ### Year 2025 
 
 
+* **Geometry-Aware Losses for Structure-Preserving Text-to-Sign Language Generation**,
+  Zetian Wu, Tianshuo Zhou, Stefan Lee, Liang Huang
+  [[Paper](https://arxiv.org/abs/2509.23011)]
+  
 * **Sigma: Semantically Informative Pre-training for Skeleton-based Sign Language Understanding**, 
 Muxin Pu, Mei Kuan Lim, Chun Yong Chong, Chen Change Loy
   [[Paper](https://arxiv.org/abs/2509.21223)] 
