@@ -78,6 +78,10 @@
 ### Year 2025 
 
 
+* **Sign Language Recognition using Parallel Bidirectional Reservoir Computing**,
+  Nitin Kumar Singh, Arie Rachmad Syulistyo, Yuichiro Tanaka, Hakaru Tamukoh
+  [[Paper](https://arxiv.org/abs/2512.19451)] 
+
 * **Geometry-Aware Losses for Structure-Preserving Text-to-Sign Language Generation**,
   Zetian Wu, Tianshuo Zhou, Stefan Lee, Liang Huang
   [[Paper](https://arxiv.org/abs/2509.23011)]
