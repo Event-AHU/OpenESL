@@ -24,11 +24,7 @@ The directory should have the following format:
             ├── 0001.png
             ├── ...
         ├── 0002
-            ├── 0000.png
-            ├── 0001.png
             ├── ...
-        ├── 0003
-        ├── ...
     ├── label
         ├── train.pkl
         ├── dev.pkl
