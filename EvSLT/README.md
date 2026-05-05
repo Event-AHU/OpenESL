@@ -29,7 +29,7 @@ The directory should have the following format:
             ├── ...
         ├── 0003
         ├── ...
-    ├── lable
+    ├── label
         ├── train.pkl
         ├── dev.pkl
         ├── test.pkl
