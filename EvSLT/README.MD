@@ -1,3 +1,4 @@
+> **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.**
 
 ## Download the Event-CSL dataset 
 
