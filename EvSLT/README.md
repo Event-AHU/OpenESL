@@ -1,6 +1,8 @@
-
-
 **Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.**
+
+<div align="center">
+
+<img src="https://github.com/Event-AHU/OpenESL/blob/main/EvSLT/pictures/EventSLT_framework.jpg" width="600">
 
 -----------
 
