@@ -1,4 +1,4 @@
-**Event Stream-based Visual Object Tracking: A High-Resolution Benchmark Dataset and A Novel Baseline.**
+**Event Stream-based Sign Language Translation: A High-Definition Benchmark Dataset and A Novel Baseline**
 
 <div align="center">
 
