@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Event-AHU/OpenESL/blob/main/EvSLT/pictures/EventSLT_framework.jpg" width="600">
 
-
+</div>
 
 ## Download the Event-CSL dataset 
 
