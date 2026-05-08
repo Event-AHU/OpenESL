@@ -8,6 +8,6 @@ data:
 training:
   wandb: disabled # online or disabled
 model:
-  tokenizer: ./pretrain/mBART_trimmed
-  transformer: ./pretrain/mBART_trimmed
+  tokenizer: ./pretrain/mBART
+  transformer: ./pretrain/mBART
   visual_encoder: ./pretrain/mytran
