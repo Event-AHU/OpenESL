@@ -18,7 +18,7 @@ Raw bin file obtained from Prophesee EVK4-HD Event camera：
 The directory should have the following format:
 ```Shell
 ├── Event_CSL
-    ├── SL_image 14827 videos (training subset: 12,602 videos; valid subset: 741 videos; testing subset: 1,484 videos;))
+    ├── SL_image   14827 videos (training subset: 12,602 videos; valid subset: 741 videos; testing subset: 1,484 videos;))
         ├── 0001
             ├── 0000.png
             ├── 0001.png
@@ -27,7 +27,7 @@ The directory should have the following format:
         ├── ...
     ├── label
         ├── train.pkl
-        ├── dev.pkl
+        ├── val.pkl
         ├── test.pkl
 ```
 
