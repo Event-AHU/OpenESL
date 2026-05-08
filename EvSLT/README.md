@@ -43,10 +43,8 @@ pip install -r requirements.txt
 ## Train & Test
 ```
 Train:
-cd Event_CSL
 bash run.sh
 
 Test：
-cd Event_CSL
 bash test_run.sh
 ```
