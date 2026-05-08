@@ -1,17 +1,13 @@
-name: Event-sign
+name: Event-CSL
 data:
-
-  train_label_path: /wangx/sl_event/Event_SL_256x256/label/train_label_SL.pkl
-  dev_label_path: /wangx/sl_event/Event_SL_256x256/label/val_label_SL.pkl
-  test_label_path: /wangx/sl_event/Event_SL_256x256/label/test_label_SL.pkl
-  img_path: /wangx/sl_event/Event_SL_256x256/SL_raw_image/
-
-  max_length: 300 # frame num
+  train_label_path: ./Event_CSL/label/train.pkl
+  dev_label_path: ./Event_CSL/label/val.pkl
+  test_label_path: ./Event_CSL/label/test.pkl
+  img_path: ./Event_CSL/SL_image
+  max_length: 300 # maximum frame number
 training:
   wandb: disabled # online or disabled
 model:
- 
-  tokenizer: /wangx/rongyao/GFSLT-VLP-ry/pretrain_models_new/our_sl_mbart_char
-  transformer:  /wangx/rongyao/GFSLT-VLP-ry/pretrain_models_new/our_sl_mbart_char
-  visual_encoder: /wangx/rongyao/GFSLT-VLP-ry/pretrain_models_new/our_sl_mbart_char_ry
-
+  tokenizer: ./pretrain/mBART_trimmed
+  transformer: ./pretrain/mBART_trimmed
+  visual_encoder: ./pretrain/mytran
