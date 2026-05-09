@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 
 
-## Train & Test
+# :triangular_ruler: Train & Test
 1) Download the processed Event frames file and put it under the EvSLT directory.
 2) Download pretrain.zip from https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it under the EvSLT directory. 
 
@@ -62,11 +62,11 @@ bash run.sh
 bash test_run.sh
 ```
 
-## Acknowledgement 
+# :cupid: Acknowledgement 
 ### Our code is implemented based on <a href="https://github.com/zhoubenjia/GFSLT-VLP">GFSLT-VLP</a>, <a href="https://github.com/hustvl/Vim">Vim</a>.
 
 
-## Citation 
+# :newspaper: Citation 
 
 If you find this work helps your research, please cite the following paper and give us a star. 
 
