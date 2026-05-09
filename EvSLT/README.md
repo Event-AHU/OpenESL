@@ -61,3 +61,14 @@ bash run.sh
 # test:
 bash test_run.sh
 ```
+
+## Acknowledgement 
+### Our code is implemented based on <a href="https://github.com/zhoubenjia/GFSLT-VLP">GFSLT-VLP</a>, <a href="https://github.com/hustvl/Vim">Vim</a>.
+
+
+## Citation 
+
+If you find this work helps your research, please cite the following paper and give us a star. 
+
+
+Please leave an **issue** if you have any questions about this work. 
