@@ -44,7 +44,7 @@ pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https
 pip install -r requirements.txt
 ```
 
-Download pre-trained： https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it in the code directory. 
+Download pre-trained： https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it in the EvSLT directory. 
 
 ## Train & Test
 ```
