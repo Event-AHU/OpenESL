@@ -50,8 +50,8 @@ pip install -r requirements.txt
 
 
 ## Train & Test
-Download the processed Event frames file and put it under the EvSLT directory.
-Download pretrain.zip from https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it under the EvSLT directory. 
+1) Download the processed Event frames file and put it under the EvSLT directory.
+2) Download pretrain.zip from https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it under the EvSLT directory. 
 
 ```
 # train:
