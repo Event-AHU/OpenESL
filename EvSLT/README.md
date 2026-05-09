@@ -6,7 +6,7 @@
 
 </div>
 
-# :dvd: Download the Event-CSL dataset 
+# :dvd: Event-CSL dataset 
 
 * **BaiduYun**: 
 ```
@@ -50,8 +50,8 @@ pip install -r requirements.txt
 
 
 ## Train & Test
-
-Download pretrain.zip from https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it in the EvSLT directory. 
+Download the processed Event frames file and put it under the EvSLT directory.
+Download pretrain.zip from https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it under the EvSLT directory. 
 
 ```
 # train:
