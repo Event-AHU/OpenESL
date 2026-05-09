@@ -39,6 +39,7 @@ The directory should have the following format:
 # :hammer: Environment 
 
 Raw results (Including training logs, checkpoints, and test results) :
+https://pan.baidu.com/s/1xCXYMR4qgxYHlhJqPlg0pg?pwd=AHUE 提取码: AHUE
 
 ```
 conda create -n eventslt python=3.10.13
