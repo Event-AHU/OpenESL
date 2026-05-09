@@ -6,13 +6,17 @@
 
 </div>
 
-## Download the Event-CSL dataset 
+# :dvd: Download the Event-CSL dataset 
 
 * **BaiduYun**: 
 ```
 Raw bin file obtained from Prophesee EVK4-HD Event camera： 
 链接：https://pan.baidu.com/s/11yGZOhF2IpJGi0D5aOHQSA?pwd=1234 
 提取码：1234
+
+Processed Event frames： 
+链接：https://pan.baidu.com/s/1gOGoxHc_4SGpR5h2T2t9SQ?pwd=bdnn
+提取码：bdnn 
 ```
 
 The directory should have the following format:
@@ -32,13 +36,15 @@ The directory should have the following format:
 ```
 
 
-## Environment Setting 
+# :hammer: Environment 
 ```
 conda create -n eventslt python=3.10.13
 conda activate eventslt
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
 ```
+
+Download pre-trained： https://pan.baidu.com/s/1ktTTv5aNOFv_codBCzTXEA (code: paxx) and put it in the code directory. 
 
 ## Train & Test
 ```
